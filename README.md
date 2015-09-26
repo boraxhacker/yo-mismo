@@ -1,6 +1,6 @@
 # yo-mismo #
 
-## Repository ##
+### Repository Location ###
 
 http://boraxhacker.hornerscorners.us
 
